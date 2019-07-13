@@ -7,14 +7,14 @@ This is the code for the Twitter Sentiment Analysis. The code uses the [tweepy](
 * tweepy (http://www.tweepy.org/)
 * textblob (https://textblob.readthedocs.io/en/dev/)
 
-##Usage
+## Usage
 
 Once you have your dependencies installed via pip, run the script in terminal via
 
 ```
-python demo.py
+python classifier.py
 ```
 
-##Credits
+## Credits
 
-This code is 100% Siraj baby.
+'Learn Python for Data Science #1' by @Sirajology on [YouTube](https://youtu.be/T5pRlIbr6gg).
